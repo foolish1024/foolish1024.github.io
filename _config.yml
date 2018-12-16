@@ -5,8 +5,8 @@ baseurl:
 url: https://foolish1024.github.io
 date_format: "ordinal"
 title: foolish1024
-subtitle: "一个程序小白的自留地"
-description: "一个程序小白的自留地"
+subtitle: "一个技术小白的自留地"
+description: "一个技术小白的自留地"
 keywords: foolish1024
 # timezone: Asia/Shanghai
 encoding: "utf-8"
