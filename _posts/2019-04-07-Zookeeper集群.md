@@ -1,3 +1,13 @@
+---
+
+layout: post
+title: ZooKeeper集群
+categories: JAVA进阶
+description: Zookeeper集群相关概念。
+keywords: Zookeeper
+
+---
+
 ## Zookeeper集群
 
 ### 1.集群管理

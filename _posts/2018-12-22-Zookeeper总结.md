@@ -1,3 +1,13 @@
+﻿---
+
+layout: post
+title: Zookeeper知识点
+categories: JAVA进阶
+description: Zookeeper知识点整理。
+keywords: Zookeeper
+
+---
+
 ## Zookeeper知识点
 
 > Zookeeper是一种为分布式应用所设计的高可用，高性能，且一致的开源协调服务，它提供一项基本服务：**分布式锁服务**。由于Zookeeper的开源特性，后来在分布式锁的基础上，摸索出其他的使用方法：**配置维护**，**组服务**，**分布式消息队列**，**分布式通知/协调**等。
