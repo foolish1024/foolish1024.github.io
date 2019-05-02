@@ -2,7 +2,7 @@
 
 layout: post
 title: ZooKeeper集群
-categories: JAVA进阶
+categories: 分布式
 description: Zookeeper集群相关概念。
 keywords: Zookeeper
 

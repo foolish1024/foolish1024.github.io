@@ -2,7 +2,7 @@
 
 layout: post
 title: Zookeeper基础
-categories: JAVA进阶
+categories: 分布式
 description: Zookeeper基础知识点整理。
 keywords: Zookeeper
 
